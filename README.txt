@@ -8,5 +8,3 @@ The code used for the player belongs to Konstantin Bluenkov and was used under t
 The Apache License can be found at www.apache.com
 2048 can be found at 2048game.com
 ANJI can be found at anji.sourceforge.net
-
-Hello!
